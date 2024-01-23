@@ -5,4 +5,4 @@ b=3
 #si me apetece ir teniendo el editor limpio, puee "stage" los cambios que haga
 
 
-# y si añado otra linea y no la stageo?
+# y si añado otra linea y no la stageo? +1 en WSL
