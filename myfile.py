@@ -1,4 +1,4 @@
-#adding a new line to a file. And modifying the current line
+#adding a new line to a file. And modifying the current line +1 en Windows
 a=2
 b=3
 
